@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    border: 1px solid black;
+    width: 800px;
+    margin: auto;
+    padding: 10px; 
+
+}
+h1 {
+    text-transform: uppercase;
+}
+
+p {
+    border: 1px solid blue;
+    width: 70px;
+    margin: auto;
+    padding: 2px;
+    background: linear-gradient(-90deg, aqua, rgb(31, 199, 241));
+    color:black;
+}
+
+
+
